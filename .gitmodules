@@ -1,0 +1,3 @@
+[submodule "d365-bc-toastui-calendar-control-addin"]
+	path = d365-bc-toastui-calendar-control-addin
+	url = https://github.com/dibyanugraha/d365-bc-toastui-calendar-control-addin.git
